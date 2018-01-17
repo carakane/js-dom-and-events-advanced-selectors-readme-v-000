@@ -16,6 +16,6 @@ function divSelector() {
 
 }
 
-function lastImageSelector() {
-
+function firstListItem() {
+  return($('li:first'))
 }
